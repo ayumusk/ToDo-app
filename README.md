@@ -13,7 +13,7 @@ This project performs following tasks:
 ✅TO-Do list can be selected by clicking on that button. By default To-do is selected.
 ✅Reading list option can be selected by clicking on the button.
 ✅Bullet journal option can be selected by clicking on that button.
-✅We can save the task by clicking in save button.
+✅We can save the task by clicking on save button.
 ✅We can filter the tasks based on the option selected
 ✅We can delete any task, once clicked on delete button we are in delete state and any ticket selected will get deleted.
 ✅Once the modal pops up, the background get blurred and vice versa.
