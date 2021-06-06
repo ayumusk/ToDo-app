@@ -19,5 +19,5 @@ This project performs following tasks:
 ✅Once the modal pops up, the background get blurred and vice versa.
 ✅We can edit the ticket any time just by clicking on that.
 ✅Nothing is lost when app is reopened or refreshed.
-✅When we change the data on any ticket then is it updated automatically.
+✅When we change the data on any ticket and it is updated automatically.
 ```
